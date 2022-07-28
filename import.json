@@ -7,7 +7,7 @@
 				"newlinesBetween": "always",
 
 				"groups": [
-          "/react$|react-dom|react-router-dom/",
+          "/^react$|react-dom|react-router-dom/",
           "/^styled-components/",
           "module",
           "/services/",
